@@ -1,6 +1,6 @@
 var express = require('express')
-
 var app = express()
+var mongoDB = 'mongodb://admin:password@ds151820.mlab.com:51820/cs496';
 
 app.get('/', function (req, res) {
  res.send('Hello World!')
