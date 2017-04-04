@@ -1,0 +1,22 @@
+{
+  "name": "cs496",
+  "version": "1.0.0",
+  "description": "By Doug Gandle and Lisa Iudiciani",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liudiciani/CS496.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liudiciani/CS496/issues"
+  },
+  "homepage": "https://github.com/liudiciani/CS496#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
